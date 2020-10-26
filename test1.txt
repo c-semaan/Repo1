@@ -1,4 +1,8 @@
 Charles
+<<<<<<< HEAD
 Test
 Test2
 Test3
+=======
+Test
+>>>>>>> parent of 52e60b5... Added T
